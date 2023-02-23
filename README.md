@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagar Vaghela</h1>
-<h3 align="center">Developer. Rider. Helper. #IBMer. #freelancer.</h3>
+<h3 align="center">Developer. Designer. Rider. Helper. #IBMer. #freelancer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-vaghela" alt="sagarvaghela" /> </p>
 
-- 🔭 I’m currently working at [IBM India Private Limited](https://www.ibm.com/in-en), Pune, India
+<!-- - 🔭 I’m currently working at [IBM India Private Limited](https://www.ibm.com/in-en), Pune, India -->
 
-- 🤝 Also, Sometime I have been working as freelancer at [Upwork](https://documents.sagarvaghela.com/upwork)
+<!-- - 🤝 Also, Sometime I have been working as freelancer at [Upwork](https://documents.sagarvaghela.com/upwork) -->
+
+- 🤝 I have been working as freelancer at [Upwork](https://documents.sagarvaghela.com/upwork)
 
 - 👨‍💻 All of my projects and portfolio are available at [https://www.sagarvaghela.com](https://www.sagarvaghela.com)
 
