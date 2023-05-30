@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects and portfolio are available at [https://www.sagarvaghela.com](https://www.sagarvaghela.com)
 
-- 💬 Ask me about **Anything ReactJS, JavaScript, TypeScript, FrontEnd**
+- 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd**
 
 - 📫 How to reach me **hello@sagarvaghela.com** or **sagar19vaghela.sv@gmail.com**
 
