@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hello@sagarvaghela.com** or **sagar19vaghela.sv@gmail.com**
 
-- 📅 You can schedule a meeting with me **[Hear](https://zcal.co/sagar19vaghela)**, happy to consult and discuss more about your requirements.
+- 📅 You can schedule a meeting with me **[hear](https://zcal.co/sagar19vaghela)**, happy to consult and discuss more about your requirements.
 
 
 <h3 align="left">Connect with me:</h3>
