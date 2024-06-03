@@ -11,9 +11,12 @@
 
 - 👨‍💻 All of my projects and portfolio are available at [https://www.sagarvaghela.com](https://www.sagarvaghela.com)
 
-- 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd**
+- 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd, Graphql, Nest, NodeJs**
 
 - 📫 How to reach me **hello@sagarvaghela.com** or **sagar19vaghela.sv@gmail.com**
+
+- 📅 You can schedule a meeting with me **[Hear](https://zcal.co/sagar19vaghela)**, happy to consult and discuss more about your requirements.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://documents.sagarvaghela.com/linkedin" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/github" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/twitter" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingokings" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/7855395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1248133" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/instagram" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/facebook" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://www.youtube.com/channel/UCrB3edAupp5GrHfez7JSGgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagarvaghela" height="30" width="40" /></a>
