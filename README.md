@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd, Graphql, Nest, NodeJs**
 
-- 📫 How to reach me **hello@sagarvaghela.com** or **sagar19vaghela.sv@gmail.com**
+- 📫 How to reach me **sagar19vaghela.sv@gmail.com** or **sagar@hvginfotech.com** or **hello@sagarvaghela.com**
 
 - 📅 You can schedule a meeting with me **[hear](https://zcal.co/sagar19vaghela)**, happy to consult and discuss more about your requirements.
 
