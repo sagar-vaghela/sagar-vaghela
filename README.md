@@ -1,29 +1,137 @@
-<h1 align="center">Hi 👋, Welcome to my Github</h1>
-<h3 align="center">Developer. Designer. Rider. Helper. #IBMer. #freelancer.</h3>
+# Sagar Vaghela
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-vaghela" alt="sagarvaghela" /> </p>
+<p align="center">
+	<strong>Senior Product Engineer | Frontend Architect | GenAI Integration</strong><br>
+	Building production-grade web platforms that scale in performance, reliability, and business impact.
+</p>
 
-<!-- - 🔭 I’m currently working at [IBM India Private Limited](https://www.ibm.com/in-en), Pune, India -->
+<p align="center">
+	<a href="https://www.sagarvaghela.com/">
+		<img src="https://img.shields.io/badge/Portfolio-sagarvaghela.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+	</a>
+	<a href="https://linkedin.com/in/sagar19vaghela">
+		<img src="https://img.shields.io/badge/LinkedIn-Sagar%20Vaghela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+	</a>
+	<a href="mailto:sagar19vaghela.sv@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Get%20in%20touch-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+	</a>
+</p>
 
-<!-- - 🤝 Also, Sometimes I have been working as a freelancer at [Upwork](https://documents.sagarvaghela.com/upwork) -->
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=sagar-vaghela&style=flat-square" alt="Profile views badge" />
+</p>
 
-- 🤝 I have been working as a freelancer at [Upwork](https://documents.sagarvaghela.com/upwork)
+## About Me
 
-- 👨‍💻 All of my projects and portfolio are available at [https://www.sagarvaghela.com](https://www.sagarvaghela.com)
+I am a Senior Product Engineer with 10+ years of experience building and scaling enterprise web products, leading frontend architecture, and shipping AI-enabled workflows that save time, reduce cost, and improve reliability.
 
-- 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd, Graphql, Nest, NodeJs**
+My focus is on the layer where product, architecture, and execution meet: React and Next.js systems that are fast, maintainable, and ready for teams to move on. I have led distributed teams of 6-8 engineers, mentored direct reports and matrix engineers, and helped teams deliver for 10K+ users in enterprise and FinTech environments.
 
-- 📫 How to reach me **sagar19vaghela.sv@gmail.com** or **sagar@hvginfotech.com** or **hello@sagarvaghela.com**
+I currently work from Pune, India, and am open to immediate relocation to Dubai as well as remote opportunities aligned to USA hours.
 
-- 📅 You can schedule a meeting with me **[hear](https://zcal.co/sagar19vaghela)**, happy to consult and discuss more about your requirements.
+## What I Do
 
+- Build scalable SaaS and enterprise web applications with React, Next.js, TypeScript, and Node.js.
+- Design frontend architecture, reusable component systems, and design-driven delivery workflows.
+- Improve performance through SSR, code splitting, lazy loading, caching, and production profiling.
+- Integrate Claude and OpenAI APIs into production workflows with prompt engineering and structured outputs.
+- Build agentic AI systems with human-in-the-loop validation, tool integration, and context optimization.
+- Mentor engineers, shape technical direction, and raise engineering standards through code review and hiring.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://documents.sagarvaghela.com/linkedin" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/github" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/twitter" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingokings" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/7855395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1248133" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/instagram" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://documents.sagarvaghela.com/facebook" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagarvaghela" height="30" width="40" /> </a> <a href="https://www.youtube.com/channel/UCrB3edAupp5GrHfez7JSGgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagarvaghela" height="30" width="40" /></a>
-<a href="https://documents.sagarvaghela.com/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagarvaghela" height="30" width="40" /> </a> </p>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> </a> </p>
+### Frontend
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sagar19vaghela"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="sagarvaghela" /></a></p><br><br>
+React.js, Next.js, TypeScript, JavaScript, Redux, React Query, SSR, SPA architecture, Micro Frontends, Design Systems, Component Libraries, Performance Optimization
+
+### Backend
+
+Node.js, Express.js, REST APIs, GraphQL, WebSockets, Microservices, Prisma ORM
+
+### AI and LLMs
+
+Claude API, OpenAI API, Prompt Engineering, System Prompt Design, Token Optimization, AI Workflow Automation, Agentic AI, Structured Outputs, Human-in-the-loop Systems
+
+### Cloud and DevOps
+
+AWS, Azure, CI/CD pipelines, GitHub Actions, Jenkins, Docker, Nginx, Monitoring and Observability, Sentry, New Relic, Feature Flags
+
+### Data and Testing
+
+MongoDB, PostgreSQL, Redis, SQL/NoSQL databases, Unit Testing, Test Automation, Cypress, Jest, Error Tracking
+
+### Product and Leadership
+
+Technical Architecture, System Design, Frontend Architecture, Team Leadership, Mentorship, Code Review, Agile/Scrum, Stakeholder Collaboration, Cross-functional Delivery
+
+## Engineering Highlights
+
+- 10+ years of experience across enterprise web platforms, product engineering, and full-stack delivery.
+- Improved load time by 30% for a 10K+ user enterprise financial platform using Next.js SSR, code splitting, and lazy loading.
+- Reduced production defects by 35% within 12 months through strict TypeScript typing, 100% unit test coverage, and automated error tracking.
+- Built a reusable UI component library across 18 product teams, improving feature velocity by 40% and reducing design-to-production time from 10 weeks to 8 days.
+- Designed GenAI and agentic workflow automation that reduced analyst workload by 50% and recovered $45K in annual engineering time.
+- Improved LLM response accuracy by 35-45% while reducing monthly AI infrastructure spend by 25-30%.
+- Accelerated CI/CD pipelines by 30%, reducing time-to-production for critical patches from 3 hours to 6 minutes.
+- Conducted 40+ technical interviews and contributed to 8 successful hires.
+
+## AI Engineering
+
+I build AI features that are usable in production, not just impressive in demos.
+
+- Claude API and OpenAI API integration
+- Prompt engineering and system prompt design
+- Context engineering and token optimization
+- Structured outputs and deterministic workflows
+- Tool use, orchestration, and agentic execution
+- Human-in-the-loop review and validation
+- AI-powered workflow automation for enterprise processes
+
+## GitHub Stats
+
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=sagar-vaghela&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-vaghela&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="https://streak-stats.demolab.com/?user=sagar-vaghela&hide_border=true&theme=default" alt="GitHub streak stats" />
+		</td>
+		<td>
+			<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-vaghela&hide_border=true&theme=github-compact" alt="GitHub activity graph" />
+		</td>
+	</tr>
+</table>
+
+## Certifications
+
+- IBM Generative & Agentic AI Expert - Developer
+- IBM Generative & Agentic AI Developer
+- IBM Generative & Agentic AI Foundation
+- IBM Full Stack Software Developer Professional Certificate
+- Meta Front-End Developer Professional Certificate
+- AWS Serverless Application Development Certification
+- Generative AI for Software Developers (LLM & Prompt Engineering)
+- Microservices and Scalable System Architecture
+
+## Current Focus
+
+- AI-native product experiences and agentic workflows
+- Advanced Next.js architecture and performance tuning
+- Better LLM reliability through context, prompts, and structured outputs
+- Scalable frontend systems with cleaner design tokens and reusable components
+- Engineering practices that improve delivery speed without sacrificing quality
+
+## Let's Connect
+
+If you are hiring for a senior product engineer, frontend architect, or AI-focused technical leader, I would be glad to connect.
+
+- Portfolio: [sagarvaghela.com](https://www.sagarvaghela.com/)
+- LinkedIn: [linkedin.com/in/sagar19vaghela](https://linkedin.com/in/sagar19vaghela)
+- GitHub: [github.com/sagar-vaghela](https://github.com/sagar-vaghela)
+- Email: [sagar19vaghela.sv@gmail.com](mailto:sagar19vaghela.sv@gmail.com)
